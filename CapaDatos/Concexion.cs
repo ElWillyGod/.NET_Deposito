@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaDatos
 {
-    public class Concexion
+    public class Concexion // concexon a la base de datos
     {
     }
 }
